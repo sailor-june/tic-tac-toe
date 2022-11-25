@@ -2,6 +2,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100%;
 }
 #main{
     padding: 2%;
@@ -32,6 +33,10 @@ body{
 #reset >button{
     
 }
-.player{
+.player-one{
     background-color: aqua;
+}
+
+.player-two{
+    background-color: darkolivegreen;
 }
